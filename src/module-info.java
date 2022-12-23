@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aaa
+ *
+ */
+module newone {
+}
